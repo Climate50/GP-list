@@ -1,5 +1,5 @@
 # Welcome to Climate 50
-The most to date, comprehensive and insightful annual global climate VC ranking
+### The most to date, comprehensive and insightful annual global climate VC ranking
  
 Dear Climate Community!
  
