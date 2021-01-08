@@ -1,5 +1,6 @@
 # Methodology
-Climate 50 is the most to date, comprehensive and insightful Global Climate VC ranking for the climate community. Climate 50 ranking methodology was created by Contrarian Ventures. We sought to craft a methodology that would incorporate all of the metrics that define a great investor. We went far beyond the traditional financial performance metrics and took into account less traditional metrics such as the founder's voice, contribution to building an inclusive community, and a recognizable VC brand. Lastly, we did not forget you - the climate community. Your voice also counts.
+### Climate 50 is the most to date, comprehensive and insightful Global Climate VC ranking for the climate community. 
+Climate 50 ranking methodology was created by Contrarian Ventures. We sought to craft a methodology that would incorporate all of the metrics that define a great investor. We went far beyond the traditional financial performance metrics and took into account less traditional metrics such as the founder's voice, contribution to building an inclusive community, and a recognizable VC brand. Lastly, we did not forget you - the climate community. Your voice also counts.
 
 In Climate 50 ranking, Venture Capital investors are ranked based on 10 distinct metrics. We have split the metrics into two separate groups: **Direct** and **Indirect** metrics.
 
