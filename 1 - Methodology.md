@@ -15,7 +15,7 @@ Direct metrics take into account the investment activity of the investor. We use
 7. Life below water (#14)
 8. Life on land (#15)
 
-There are six direct investor metrics used in our methodology. Each metric was taken into account while calculating the overall Investor Score. All data for the direct metrics were provided by our data partner Dealroom.co. Each direct metric has its own weight. All six indirect metrics combined represent 75% of the final Investor Score.
+There are six direct investor metrics used in our methodology. Each metric was taken into account while calculating the overall Investor Score. All data for the direct metrics were provided by our data partner Dealroom.co. Each direct metric has its own weight. All six direct metrics combined represent 75% of the final Investor Score.
 
 **Six direct metrics are as follows:**
 - **Metric #1.** Companies invested (2020): number of investments into new companies in 2020.
