@@ -14,7 +14,7 @@ We are delighted to announce our partnership with [2150](https://www.2150.vc/)�
 
 "We are excited to take Climate50 to the next level together with 2150 partnership. We have loads of big plans for what's next for Climate50. To solve one of the biggest crises humankind has ever faced, and with a defined timeline, we need to bring more transparency and mobilize more capital," shared Rokas Peciulaitis, Founder of Contrarian Ventures and Climate50.
 
-Christian Jølck, the co-founding Partner of 2150, added - "Capital, in recent years, has been too focused on shareholder value creation, but if combined with the right purpose, ideas and people it can be a powerful catalyst for inventing and scaling new technologies, which can help fight climate change at scale."
+Christian Jølck, the co-founding Partner of 2150, added - "Dozens of VC firms are now making the scaling of technologies that can have a material impact on the climate crisis their core mission. Alongside them we are beginning to see a growing support from large pockets of institutional capital begin to support this effort, which is critical and welcome. Those forward-thinking pools of capital must also be celebrated!"
 
 Climate50 will continue to create more transparency about who is proactively allocating more capital towards the net-zero agenda. While initially, Climate50 started to bring transparency to the VCs, next we will kick-start a new chapter and explore who is the money behind the VC money - Limited Partners, commonly referred to as LPs.
 
