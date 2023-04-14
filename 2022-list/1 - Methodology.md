@@ -20,13 +20,13 @@ Direct metrics take into account the investment activity of the investor. We use
 There are seven direct investor metrics used in our methodology. Each metric was taken into account while calculating the overall Investor Score. All data for the direct metrics were initially provided by Dealroom.co. and additional data submissions were made by investors. Each direct metric has its own weighting. All seven direct metrics combined represent 90% of the final Investor Score.
 
 **Seven direct metrics are as follows:**
-- **Metric #1.** Companies invested (2021): number of investments into new companies in 2021.
+- **Metric #1.** Companies invested (2022): number of investments into new companies in 2022.
 - **Metric #2.** Companies invested (last 10 years): number of investments into new companies over the last 10 years.
 - **Metric #3.** Portfolio companies (with a valuation from $100M to $1B): number of portfolio companies valued from $100M to $1B.
-- **Metric #4.** Exits (2021): number of exits completed by the investor in 2021.
+- **Metric #4.** Exits (2022): number of exits completed by the investor in 2022.
 - **Metric #5.** Exits (last 10 years): number of exits completed by the investor in the last 10 years.
 - **Metric #6.** Unicorn portfolio companies (with a valuation of $1B+): number of portfolio companies valued over $1B that have Unicorn status.
-- **Metric #7.** SDG-related companies invested / total companies invested (2021): Ratio of SDG-related investments to the total number of investments into new companies in 2021.
+- **Metric #7.** SDG-related companies invested / total companies invested (2022): Ratio of SDG-related investments to the total number of investments into new companies in 2022.
 
 **Indirect metrics:**
 Indirect metrics take into account the non-investment related activity of the investor. One indirect investor metric was taken into account while calculating the overall Investor Score. Each indirect metric has its own weighting. One indirect metric represents 10% of the final Investor Score.
