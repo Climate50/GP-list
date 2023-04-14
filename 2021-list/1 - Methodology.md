@@ -33,6 +33,6 @@ Indirect metrics take into account the non-investment related activity of the in
 **Three indirect metrics are as follows:**
 - **Metric #8.** Brand awareness score: an aggregated number of total followers in all social media platforms combined (LinkedIn, Twitter and Medium).
 - **Metric #9.** Founders score: a scoring metric based on our partner’s – Landscape.Ventures platform and methodology, which represent a founder’s voice on different qualitative aspects such as approachability, response time and professionalism aggregated into a single score on the Landscape platform.
-- **Metric #10.** Public score: number of public votes cast for the investor by the public on the Climate50.com platform by 21st of April, 2021.
+- **Metric #10.** Public score: number of public votes cast for the investor by the public on the Climate50.com platform by 21st of April, 2022.
 
 The final Investor Score is derived based on 10 distinct metrics, and investors are ranked accordingly in the final Climate 50 list. The list is dynamic, Metric #10 will change during the voting period, and the final Climate 50 list will be published on the 25th of April 2022. The cut-off time for public votes is the 21st of April, 2022, 23:30 GMT.
