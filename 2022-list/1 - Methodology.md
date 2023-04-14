@@ -34,4 +34,4 @@ Indirect metrics take into account the non-investment related activity of the in
 **One indirect metric is as follows:**
 - **Metric #8.** Public score: number of public votes cast for the investor by the public on the Climate50.com platform by 7th of May, 2023.
 
-The final Investor Score is derived based on 8 distinct metrics, and investors are ranked accordingly in the final Climate 50 list. The list is dynamic, Metric #10 will change during the voting period, and the final Climate 50 list will be published on the 9th of May 2023. The cut-off time for public votes is the 9th of May, 2023, 23:30 GMT.
+The final Investor Score is derived based on 8 distinct metrics, and investors are ranked accordingly in the final Climate 50 list. The list is dynamic, Metric #10 will change during the voting period, and the final Climate 50 list will be published on the 9th of May 2023. The cut-off time for public votes is the 7th of May, 2023, 23:30 GMT.
